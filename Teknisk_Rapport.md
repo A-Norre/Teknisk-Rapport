@@ -23,7 +23,7 @@ Har sidans innehåll koppling till design eller styling av något slag kan eleme
 <img src="styling.png" width="250px" height="130px"> <img src="coding.png" width="250px" height="130px">
 
 ## Läsbarhet
-En hemsidans läsbarhet är ett av de absolut viktigaste momenten i att skapa ett användarvänligt gränssnitt. Oläsbar text innebär att användaren inte kan ta del av informationen och får därför inte möjlighet att ta del av innehållet. Är texten däremot läsbar blir det enkelt för användaren att ta till sig allt som hemsidan erbjuder. Kontrast är en av de viktigaste faktorerna när det kommer till läsbarhet. Hög kontrast i form av till exempel svart text på vit bakgrund gör det enkelt för användaren att skapa sig en överblick över innehållet. Gul text på vit bakgrund kan däremot bli extremt svårt för läsaren att tyda vilket kräver extra ansträngning som skapar irritation och frustration i onödan [5].
+En hemsidans läsbarhet är ett av de absolut viktigaste momenten i att skapa ett användarvänligt gränssnitt. Oläsbar text innebär att användaren inte kan ta del av informationen och går därmed miste om innehållet som sidan erbjuder. Är texten däremot läsbar blir det enkelt för användaren att ta till sig allt som hemsidan erbjuder. Kontrast är en av de viktigaste faktorerna när det kommer till läsbarhet. Hög kontrast i form av till exempel svart text på vit bakgrund gör det enkelt för användaren att skapa sig en överblick över innehållet. Gul text på vit bakgrund kan däremot bli extremt svårt för läsaren att tyda vilket kräver extra ansträngning som skapar irritation och frustration i onödan [5].
 
 <img src="lattlast.png" width="250px" height="180px"> <img src="svarlast.png" width="250px" height="180px">
 
