@@ -1,6 +1,6 @@
 # Användarvänligt gränssnitt
 
-## Vad är ett gränssnitt?
+## Gränssnitt
 För att kunna designa ett användarvänligt gränssnitt på en hemsida måste vi först bekanta oss med vad ett gränssnitt är och vad det huvudsakliga syftet för ett gränssnitt anses vara [1].
 
 Ett gränssnitt i detta sammanhang är den funktion som möjliggör kommunikation mellan en person och en dator. Gränssnitt i denna redovisning avser den bild som datorn redovisar på datorskärmen och hur en person kan se och förstå resultat som redovisas av datorn samt kunna interagera med mus (pekdon) och tangentbord för att påverka kommandon och indata till datorn [1].
